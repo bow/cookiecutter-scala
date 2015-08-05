@@ -5,7 +5,7 @@ import com.typesafe.sbt.SbtScalariform._
 import com.typesafe.sbt.SbtSite.site
 import de.heikoseeberger.sbtheader._
 
-object {{ cookiecutter.repo_name|capitalize }} extends Build {
+object {{ cookiecutter.repo_name|capitalize }}Build extends Build {
 
   val Organization = "{{ cookiecutter.organization }}"
   val Name = "{{ cookiecutter.project_name }}"
