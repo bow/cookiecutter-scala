@@ -1,0 +1,14 @@
+{
+  "full_name": "Wibowo Arindrarto",
+  "email": "bow@bow.web.id",
+  "homepage": "http://bow.web.id",
+  "github_username": "bow",
+  "organization": "com.github",
+  "project_name": "Project",
+  "repo_name": "repo",
+  "project_short_description": "",
+  "scala_version": "2.11.6",
+  "java_version": "1.8",
+  "year": "2015",
+  "_copy_without_render": [ "sbt" ]
+}
